@@ -32,7 +32,7 @@ class Solution {
         // Your Code Here
         int add = 0;
         int sum = n*(n+1)/2;
-        for(int i=0;i<n-1;i++){
+        for(int i=0;i<array.length;i++){
            add+=array[i];
        }
        
