@@ -113,7 +113,7 @@ class GfG {
 //User function Template for Java
 
 
-public class Solution
+ class Solution
 {
     //Function to check whether a Binary Tree is BST or not.
     boolean isBST(Node root)
