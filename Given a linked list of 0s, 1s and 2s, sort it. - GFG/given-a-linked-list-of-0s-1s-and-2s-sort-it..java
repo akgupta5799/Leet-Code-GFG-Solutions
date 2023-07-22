@@ -18,28 +18,31 @@ class Node
 
 class Driverclass
 {
-    public static void main (String[] args) 
+    public static void main (String[] args) throws IOException
     {
-        Scanner sc= new Scanner(System.in);
-        int t = sc.nextInt();
+        BufferedReader in=new BufferedReader(new InputStreamReader(System.in));
+        PrintWriter out=new PrintWriter(System.out);
+        int t = Integer.parseInt(in.readLine().trim());
         
         while(t-- > 0)
         {
-            int n = sc.nextInt();
-            Node head = new Node(sc.nextInt());
+            int n =Integer.parseInt(in.readLine().trim());
+            String s[] = in.readLine().trim().split(" ");
+            Node head = new Node(Integer.parseInt(s[0]));
             Node tail = head;
-            while(n-- > 1){
-		        tail.next = new Node(sc.nextInt());
-		        tail = tail.next;
-		    }
-		   
-		      head = new Solution().segregate(head);
-		     printList(head);
-		    System.out.println();
+            for (int i = 1; i < n; i++) {
+                tail.next = new Node(Integer.parseInt(s[i]));
+                tail = tail.next;
+            }
+
+            head = new Solution().segregate(head);
+            printList(head, out);
+            out.println();
         }
+        out.close();
     }
     
-    public static void printList(Node head)
+    public static void printList(Node head,PrintWriter out)
     {
         if(head == null)
            return;
@@ -47,7 +50,7 @@ class Driverclass
         Node temp = head;
         while(temp != null)
         {
-            System.out.print(temp.data + " ");
+            out.print(temp.data + " ");
             temp = temp.next;
         }
     }
@@ -59,6 +62,8 @@ class Driverclass
 
 
 // } Driver Code Ends
+
+
 
 
 //User function Template for Java
@@ -116,5 +121,3 @@ class Solution
         return head;
     }
 }
-
-
