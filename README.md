@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0053-maximum-subarray) |
 | [0384-shuffle-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0384-shuffle-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0053-maximum-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1511-count-number-of-teams) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0040-combination-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
