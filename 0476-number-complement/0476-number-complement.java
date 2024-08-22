@@ -9,3 +9,15 @@ class Solution {
         return num;
     }
 }
+
+/* num = 5 ------------------------------  1 0 1
+fliping right most bit by taking XOR with  0 0 1
+                                          --------
+                                           1 0 0
+fliping second bit by taking XOR with      0 1 0  
+                                          --------
+                                           1 1 0
+fliping first bit by taking XOR with       1 0 0                                     
+                                          --------
+                                           0 1 0 == 2
+*/
