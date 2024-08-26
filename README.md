@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0941-sort-array-by-parity](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0056-merge-intervals) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0941-sort-array-by-parity](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0941-sort-array-by-parity](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
