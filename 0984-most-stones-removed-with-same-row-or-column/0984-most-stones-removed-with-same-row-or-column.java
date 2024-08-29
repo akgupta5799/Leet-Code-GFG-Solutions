@@ -24,3 +24,11 @@ class Solution {
         }
     }
 }
+
+/* Logic:
+First find out the number of groups that shares either its row or column with other.
+Let say :         G1    G2    G3    G4  ...... and let say each group contains
+                  x1    x2    x3    x4  ...... stones
+Removed stones =  x1-1  x2-1  x3-1  x4-1 ...... and we know x1+x2+x3+.... = n
+                (x1+x2+x3+...) - (1+1+1+1+...)
+                (n - number of groups) */
