@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0056-merge-intervals) |
 | [0384-shuffle-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0384-shuffle-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0699-falling-squares](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0699-falling-squares) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0890-lemonade-change) |
@@ -236,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0062-unique-paths) |
+## Segment Tree
+|  |
+| ------- |
+| [0699-falling-squares](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0699-falling-squares) |
+## Ordered Set
+|  |
+| ------- |
+| [0699-falling-squares](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0699-falling-squares) |
 <!---LeetCode Topics End-->
