@@ -5,12 +5,13 @@ class Solution {
             sb.append(ch - 'a' + 1);
         }
        
-        while(k-- > 0){
+        while(k > 0){
              int sum = 0;
             for(char ch : sb.toString().toCharArray()){
                 sum += ch-'0';
             }
             sb = new StringBuilder(Integer.toString(sum));
+            k--;
         }
         return Integer.parseInt(sb.toString());
     }
