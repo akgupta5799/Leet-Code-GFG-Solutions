@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0229-majority-element-ii) |
 | [0384-shuffle-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0384-shuffle-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0273-integer-to-english-words) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0202-happy-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0941-sort-array-by-parity](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0941-sort-array-by-parity) |
