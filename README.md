@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [1484-linked-list-in-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
 |  |
