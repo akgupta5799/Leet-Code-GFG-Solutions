@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
 | ------- |
