@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0838-design-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [0838-design-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0838-design-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
