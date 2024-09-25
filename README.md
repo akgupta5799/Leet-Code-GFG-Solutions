@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0056-merge-intervals) |
 | [0137-single-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0367-valid-perfect-square) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
