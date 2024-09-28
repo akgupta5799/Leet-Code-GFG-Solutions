@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0229-majority-element-ii) |
 | [0384-shuffle-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0384-shuffle-an-array) |
+| [0416-partition-equal-subset-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0699-falling-squares](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0699-falling-squares) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0264-ugly-number-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1196-filling-bookcase-shelves) |
