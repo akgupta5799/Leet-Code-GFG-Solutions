@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0384-shuffle-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0699-falling-squares](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0699-falling-squares) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0264-ugly-number-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 ## Game Theory
