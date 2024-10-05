@@ -1,6 +1,6 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        // Brute force
+         // Brute force
         // int count = 0;
         // for(int i=0;i<nums.length;i++){
         //     int sum = 0;
@@ -12,28 +12,20 @@ class Solution {
         //     }
         // }
         // return count;
-    
 
-
-
-// Optimal Solution using HashMap
-
-    
-
-       int count=0;
-        
-         Map<Integer, Integer> map = new HashMap<>();
-          int sum=0;
+        //Optimal Approach
+        int count = 0;
+        int sum = 0;
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0,1);
         for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
-            if(sum==k)count++;
-         if(map.containsKey(sum-k)){
-             count+= map.get(sum-k);
-         }
-         map.put(sum,map.getOrDefault(sum,0)+1);
-         
+            sum += nums[i];
+            if(map.containsKey(sum-k)){
+                count += map.get(sum-k);
+            }
+            map.put(sum, map.getOrDefault(sum,0)+1);
         }
-          
-         return count; 
+        return count;
+
     }
 }
