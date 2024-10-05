@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0953-reverse-only-letters) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0264-ugly-number-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0941-sort-array-by-parity](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0953-reverse-only-letters) |
