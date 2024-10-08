@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0953-reverse-only-letters) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0890-lemonade-change) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
