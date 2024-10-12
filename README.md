@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2727-number-of-senior-citizens](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1970-sorting-the-sentence](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1970-sorting-the-sentence) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0953-reverse-only-letters) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Tree
 |  |
 | ------- |
@@ -353,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
 |  |
 | ------- |
