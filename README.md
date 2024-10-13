@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0941-sort-array-by-parity](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0944-smallest-range-i) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0944-smallest-range-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0944-smallest-range-i) |
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Randomized
