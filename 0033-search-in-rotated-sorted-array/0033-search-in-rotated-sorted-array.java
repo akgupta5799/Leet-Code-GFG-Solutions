@@ -1,19 +1,19 @@
 class Solution {
     public int search(int[] nums, int target) {
         int n = nums.length;
-        int pivot_index = findPivot(nums,n);// pivot element is minimum element in rotated sorted array same as Leetcode 153
-        int idx = binarySearch(nums, target, 0, pivot_index - 1); // left side of pivot_index
+        int pivot_index = findPivot(nums, n);
+       
+        int idx = binarySearch(nums, target, 0, pivot_index-1);
         if(idx != -1){
             return idx;
         }
-
-        idx = binarySearch(nums, target, pivot_index, n-1); //right side including pivot_index
+        idx = binarySearch(nums, target, pivot_index, n-1);
         return idx;
+        
     }
-
     public static int findPivot(int[] nums, int n){
         int l = 0;
-        int r = n - 1;
+        int r = n-1;
         while(l < r){
             int mid = l + (r - l)/2;
             if(nums[mid] > nums[r]){
@@ -28,7 +28,7 @@ class Solution {
     public static int binarySearch(int[] nums, int target, int l, int r){
         int idx = -1;
         while(l <= r){
-            int mid = l + (r - l)/2;
+            int mid = l + (r -l)/2;
             if(nums[mid] == target){
                 idx = mid;
                 break;
