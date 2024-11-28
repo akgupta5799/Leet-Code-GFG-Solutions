@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0037-sudoku-solver) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0202-happy-number) |
