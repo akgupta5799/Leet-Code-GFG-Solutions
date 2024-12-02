@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0941-sort-array-by-parity](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0944-smallest-range-i) |
+| [0954-maximum-sum-circular-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0664-strange-printer) |
+| [0954-maximum-sum-circular-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0190-reverse-bits) |
 | [0324-wiggle-sort-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0859-design-circular-deque) |
+| [0954-maximum-sum-circular-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Quickselect
 |  |
 | ------- |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
