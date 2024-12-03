@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
