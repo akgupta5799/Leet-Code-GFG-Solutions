@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0664-strange-printer) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0941-sort-array-by-parity](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0941-sort-array-by-parity) |
