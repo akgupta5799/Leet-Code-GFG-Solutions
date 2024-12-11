@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
