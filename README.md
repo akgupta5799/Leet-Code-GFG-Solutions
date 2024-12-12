@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0670-maximum-swap) |
+| [0795-k-th-symbol-in-grammar](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0944-smallest-range-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0944-smallest-range-i) |
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0326-power-of-three) |
+| [0795-k-th-symbol-in-grammar](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1197-parsing-a-boolean-expression](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 ## Matrix
 |  |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0476-number-complement) |
+| [0795-k-th-symbol-in-grammar](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
