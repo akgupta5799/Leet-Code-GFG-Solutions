@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0031-next-permutation) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0031-next-permutation) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0670-maximum-swap) |
