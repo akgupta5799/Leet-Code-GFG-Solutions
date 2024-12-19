@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0062-unique-paths) |
