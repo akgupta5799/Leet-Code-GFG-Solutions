@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Indexed Tree
 |  |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Data Stream
 |  |
