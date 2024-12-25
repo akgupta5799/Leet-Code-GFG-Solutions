@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1484-linked-list-in-binary-tree) |
