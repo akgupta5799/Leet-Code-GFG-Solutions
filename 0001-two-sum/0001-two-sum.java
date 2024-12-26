@@ -9,10 +9,9 @@ class Solution {
             if(map.containsKey(target - nums[i])){
                 res[0] = i;
                 res[1] = map.get(target - nums[i]);
-                break;
-            }
-
-            map.put(nums[i], i);
+            }else{
+                 map.put(nums[i], i);
+            } 
         }
 
         return res;
