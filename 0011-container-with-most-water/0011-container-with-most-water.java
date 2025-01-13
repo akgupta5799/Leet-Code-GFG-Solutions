@@ -9,8 +9,13 @@ class Solution {
             if(area > maxArea){
                 maxArea = area;
             }
-            if(Math.min(height[start],height[end]) == height[start]){
-                start++;
+            // if(Math.min(height[start],height[end]) == height[start]){
+            //     start++;
+            // }else{
+            //     end--;
+            // }
+            if(height[start] < height[end]){
+                start++; //because we want more height for more water
             }else{
                 end--;
             }
