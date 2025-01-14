@@ -19,16 +19,15 @@ class Solution {
         // return nums[nums.length/2];
 
         /*Boyer-Moore Voting Algorithm */
-        int n = nums.length;
-        Integer maj = null;
+        int maj = 0;
         int count = 0;
-        for(int i=0;i<n;i++){
-            if(count == 0){
-                maj = nums[i];
+        for (int num : nums) {
+            if (count == 0) {
+                maj = num;
                 count = 1;
-            }else if(nums[i] == maj){
+            } else if (maj == num) {
                 count++;
-            }else{
+            } else {
                 count--;
             }
         }
