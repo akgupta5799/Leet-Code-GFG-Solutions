@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0324-wiggle-sort-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0384-shuffle-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0941-sort-array-by-parity](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0948-sort-an-array) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0367-valid-perfect-square) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
