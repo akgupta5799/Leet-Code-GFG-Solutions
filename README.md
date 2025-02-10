@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3447-clear-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Depth-First Search
 |  |
