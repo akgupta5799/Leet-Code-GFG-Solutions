@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1970-sorting-the-sentence](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1970-sorting-the-sentence) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1304-longest-happy-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
