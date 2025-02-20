@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2107-find-unique-binary-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2107-find-unique-binary-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
+| [2107-find-unique-binary-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
