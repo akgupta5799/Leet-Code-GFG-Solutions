@@ -6,9 +6,12 @@ class Solution {
         // }
         // return n==1;
 
+        // if(n <= 0) return false;
+        // if(n == 1) return true;
+        // if(n % 2 != 0) return false;
+        // return isPowerOfTwo(n/2);
+
         if(n <= 0) return false;
-        if(n == 1) return true;
-        if(n % 2 != 0) return false;
-        return isPowerOfTwo(n/2);
+        return (n & (n-1)) == 0;
     }
 }
