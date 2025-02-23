@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0202-happy-number) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0326-power-of-three) |
