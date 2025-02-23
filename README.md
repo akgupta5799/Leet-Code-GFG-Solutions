@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0273-integer-to-english-words) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0326-power-of-three) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
