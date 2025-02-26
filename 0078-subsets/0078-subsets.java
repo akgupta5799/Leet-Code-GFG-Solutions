@@ -12,9 +12,9 @@ class Solution {
             return;
         }
 
-        temp.add(nums[i]); // Take
-        solve(nums, i+1, temp); // Explore
-        temp.remove(temp.size()-1); // Non - Take
-        solve(nums, i+1, temp); // Explore
+        temp.add(nums[i]); // take
+        solve(nums, i+1, temp); // explore
+        temp.remove(temp.size()-1); // non - take
+        solve(nums, i+1, temp); // explore
     }
 }
