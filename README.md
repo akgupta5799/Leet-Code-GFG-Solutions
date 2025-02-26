@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
 | [2107-find-unique-binary-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0231-power-of-two) |
