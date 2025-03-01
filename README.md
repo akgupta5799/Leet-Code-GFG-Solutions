@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2551-apply-operations-to-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2551-apply-operations-to-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
