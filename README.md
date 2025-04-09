@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
