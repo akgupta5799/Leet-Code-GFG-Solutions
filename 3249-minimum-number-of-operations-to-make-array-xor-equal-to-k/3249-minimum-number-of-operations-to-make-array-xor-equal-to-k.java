@@ -5,6 +5,12 @@ class Solution {
             totalXor  = totalXor ^ num;
         }
         int n = totalXor ^ k;
-        return Integer.bitCount(n);
+        //return Integer.bitCount(n);
+        int count = 0;
+        while(n != 0){
+            n = n & (n-1);
+            count++;
+        }
+        return count;
     }
 }
