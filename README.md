@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0944-smallest-range-i) |
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
