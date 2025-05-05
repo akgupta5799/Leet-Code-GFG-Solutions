@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0664-strange-printer) |
+| [0806-domino-and-tromino-tiling](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0954-maximum-sum-circular-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1063-best-sightseeing-pair) |
