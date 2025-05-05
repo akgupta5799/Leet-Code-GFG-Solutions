@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0217-contains-duplicate) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
