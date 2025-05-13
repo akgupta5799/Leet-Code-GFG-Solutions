@@ -1,18 +1,33 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-       int n = nums.length;
-       int currSum = nums[0];
-       int overAllSum = nums[0];
-       for(int i=1;i<n;i++){
-        if(currSum >= 0){
-            currSum += nums[i];
-        }else{
-            currSum = nums[i];
+        // T.C. O(n^2) TLE
+        // int n = nums.length;
+        // int max = Integer.MIN_VALUE;
+        // for(int i=0;i<n;i++){
+        //     int sum = 0;
+        //     for(int j=i;j<n;j++){
+        //         sum += nums[j];
+        //         if(sum > max){
+        //             max = sum;
+        //         }
+        //     }
+        // }
+        // return max;
+
+        int n = nums.length;
+        int currSum = nums[0];
+        int overAllSum = nums[0];
+        for(int i=1;i<n;i++){
+            if(currSum >= 0){
+                currSum += nums[i];
+            }else{
+                currSum = nums[i];
+            }
+
+            if(currSum > overAllSum){
+                overAllSum = currSum;
+            }
         }
-        if(currSum > overAllSum){
-            overAllSum = currSum;
-        }
-       }
-       return overAllSum;
+        return overAllSum;
     }
 }
