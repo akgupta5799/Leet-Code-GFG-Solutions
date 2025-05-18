@@ -38,7 +38,7 @@ class Solution {
         // }
 
         // T.C. O(n)  Optimal Solution (One-pass Solution)
-
+        // Dutch National Flag Algorithm
         int n = nums.length;
         int i = 0;      // denote for 0
         int j = 0;      // denote for 1
