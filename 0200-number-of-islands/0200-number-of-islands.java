@@ -3,7 +3,7 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
         int count = 0;
-        boolean visited[][] = new boolean[m][n]; 
+        boolean visited[][] = new boolean[m][n];
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j] == '1' && visited[i][j] == false){
@@ -14,7 +14,8 @@ class Solution {
         }
         return count;
     }
-    public void merge(char[][] grid, int i, int j, boolean visited[][]){
+
+    public void merge(char[][] grid, int i, int j, boolean[][] visited){
         if(i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] == '0' || visited[i][j] == true){
             return;
         }
@@ -26,4 +27,3 @@ class Solution {
         merge(grid, i, j-1, visited);
     }
 }
-
