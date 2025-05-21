@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0217-contains-duplicate) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0226-invert-binary-tree) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0226-invert-binary-tree) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
