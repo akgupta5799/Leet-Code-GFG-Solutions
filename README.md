@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0547-number-of-provinces) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0547-number-of-provinces) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
