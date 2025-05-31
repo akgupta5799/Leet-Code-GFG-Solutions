@@ -1,17 +1,11 @@
 class Solution {
     public int kthGrammar(int n, int k) {
-        if(n == 1 && k == 1) return 0;
-        int len = (int)Math.pow(2, n-1);
-        int mid = len / 2;
-
-        if(k <= mid){
-            return kthGrammar(n-1, k);
+        if(n == 1) return 0;
+        int parent = kthGrammar(n-1, (k+1)/2);
+        if(k % 2 == 1){
+            return parent;
         }else{
-            return inverse(kthGrammar(n-1, k-mid));
+            return 1 - parent;
         }
-    }
-    public static int inverse(int val){
-        if(val == 0) return 1;
-        return 0;
     }
 }
