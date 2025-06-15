@@ -1,7 +1,6 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        // Brute force  Time Complexity: O((mn)*(m+n))
-        // Space Complexity: O(mn)
+        // Brute Force T.C. O((mn)*(m+n)) &b S.C. O(m*n)
         // int m = matrix.length;
         // int n = matrix[0].length;
         // int temp[][] = new int[m][n];
@@ -17,6 +16,7 @@ class Solution {
         //             for(int k=0;k<n;k++){
         //                 temp[i][k] = 0;
         //             }
+
         //             for(int k=0;k<m;k++){
         //                 temp[k][j] = 0;
         //             }
@@ -30,36 +30,26 @@ class Solution {
         //     }
         // }
 
-        // Better Approach ( Reducing Space )
-        // Time Complexity: O(m*n)
-        // Space Complexity: O(m+n)
+        // Better Approach: T.C. O(m*n) & S.C. O(m + n)
         int m = matrix.length;
         int n = matrix[0].length;
-        int row[] = new int[m];
-        int col[] = new int[n];
+        boolean row[] = new boolean[m];
+        boolean col[] = new boolean[n];
 
-        Arrays.fill(row, 1);
-        Arrays.fill(col, 1);
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(matrix[i][j] == 0){
-                    row[i] = 0;
-                    col[j] = 0;
+                    row[i] = true;
+                    col[j] = true;
                 }
             }
         }
-
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(row[i] == 0 || col[j] == 0){
+                if(row[i] || col[j]){
                     matrix[i][j] = 0;
                 }
             }
         }
-
-        // Optimal Approach 
-        // Time Complexity: O(m*n)
-        // Space Complexity: O(1)
-
     }
 }
