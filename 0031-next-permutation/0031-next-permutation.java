@@ -1,7 +1,7 @@
 class Solution {
     public void nextPermutation(int[] nums) {
         int n = nums.length;
-        // Finding gola index
+        // Finding the gola_index
         int gola_index = -1;
         for(int i=n-1;i>0;i--){
             if(nums[i] > nums[i-1]){
@@ -18,25 +18,24 @@ class Solution {
                     break;
                 }
             }
-            // swap these gola_index value with swap_index value
+
+            // swap these two values present at gola_index and swap_index
             swap(nums, gola_index, swap_index);
         }
 
-        // reverse from swap_index+1 till n-1
+        // reverse from gola_index+1 to n-1
         reverse(nums, gola_index+1, n-1);
     }
 
     public static void swap(int[] nums, int i, int j){
         int temp = nums[i];
         nums[i] = nums[j];
-        nums[j ]= temp;
+        nums[j] = temp;
     }
 
     public static void reverse(int[] nums, int i, int j){
         while(i < j){
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
+            swap(nums, i, j);
             i++;
             j--;
         }
