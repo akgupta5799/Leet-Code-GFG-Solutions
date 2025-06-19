@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0057-insert-interval) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0463-island-perimeter) |
