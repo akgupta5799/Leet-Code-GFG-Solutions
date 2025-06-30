@@ -31,25 +31,23 @@ class Solution {
         }
         return -1;*/
 
-        // Optimal Solution [Floyd's Tortoise & Hare Algorithm]
+        // Optimal Solution [Floyd's Tortoise & Hare Algorithm] T.C. O(n)
         int slow = nums[0];
         int fast = nums[0];
-
         while(true){
             slow = nums[slow];
             fast = nums[nums[fast]];
-            
             if(slow == fast){
-                break; // Cycle Detected
+                break; // Cycle detected
             }
         }
-
+        // Detect the entry point of the cycle (duplicate)
+        // set slow to nums[0] and fast will be at the same position
         slow = nums[0];
         while(slow != fast){
             slow = nums[slow];
             fast = nums[fast];
         }
         return slow; // or return fast
-
-    }
+    }    
 }
