@@ -10,31 +10,31 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        // if(head == null) return null;
+        if(head == null) return null;
 
-        // ListNode temp = head;
-        // int length = 1;
-        // while(temp.next!=null){
-        //     length++;
-        //     temp = temp.next;
-        // }
-
-        // int len = length/2 + 1;
-        // ListNode curr = head;
-        // for(int i=1;i<len;i++){
-        //     curr = curr.next;
-        // }
-        // return curr;
-
-
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while(fast!=null && fast.next!=null){
-            slow = slow.next;
-            fast = fast.next.next;
+        ListNode temp = head;
+        int length = 1;
+        while(temp.next!=null){
+            length++;
+            temp = temp.next;
         }
 
-        return slow;
+        int len = length/2 + 1;
+        ListNode curr = head;
+        for(int i=1;i<len;i++){
+            curr = curr.next;
+        }
+        return curr;
+
+
+        // ListNode slow = head;
+        // ListNode fast = head;
+
+        // while(fast!=null && fast.next!=null){
+        //     slow = slow.next;
+        //     fast = fast.next.next;
+        // }
+
+        // return slow;
     }
 }
