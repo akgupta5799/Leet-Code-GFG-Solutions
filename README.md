@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2107-find-unique-binary-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2107-find-unique-binary-string) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
