@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0326-power-of-three) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0859-design-circular-deque) |
