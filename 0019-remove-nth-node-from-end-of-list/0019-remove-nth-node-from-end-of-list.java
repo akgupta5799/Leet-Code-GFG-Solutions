@@ -10,25 +10,20 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        // if(head == null || head.next == null){
-        //     return null;
-        // }
         ListNode temp1 = head;
         ListNode temp2 = head;
         while(n > 0){
             temp1 = temp1.next;
             n--;
         }
-        // if length of LinkedList l == n then temp1 will be null.
+        // when l == n
         if(temp1 == null){
             return head.next;
         }
-        
         while(temp1.next != null){
             temp1 = temp1.next;
             temp2 = temp2.next;
         }
-        
         temp2.next = temp2.next.next;
         return head;
     }
