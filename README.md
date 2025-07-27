@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
