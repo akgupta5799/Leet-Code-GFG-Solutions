@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0496-next-greater-element-i) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
