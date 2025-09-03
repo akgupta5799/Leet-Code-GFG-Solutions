@@ -27,11 +27,13 @@ class Solution {
             for (int j = 0; j < nums2.length; j++) {
                 if (nums2[j] == target) {
                     found = true;
-                } else if (found && nums2[j] > target) {
+                }
+                if (found && nums2[j] > target) {
                     ng = nums2[j];
                     break;
                 }
             }
+
             res[i] = ng;
         }
 
