@@ -12,11 +12,8 @@ class Solution {
             }else{
                 ans[i%n] = nums[st.peek()];
             }
-
             st.push(i%n);
-
         }
         return ans;
-        
     }
 }
