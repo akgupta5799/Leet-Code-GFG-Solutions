@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0056-merge-intervals) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0118-pascals-triangle) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0088-merge-sorted-array) |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
