@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1293-three-consecutive-odds) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0367-valid-perfect-square) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3227-find-missing-and-repeated-values) |
