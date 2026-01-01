@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1184-car-pooling) |
 | [1240-stone-game-ii](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
