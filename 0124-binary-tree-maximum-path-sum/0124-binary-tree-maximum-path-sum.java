@@ -24,16 +24,16 @@ class Solution {
         if(root == null) return 0;
         int left = solve(root.left);
         int right = solve(root.right);
-        // case 1: Niche hi mil gya answer
-        int nicheHiMilGyaAns = left + right + root.val;
-        // case 2: left ya right me jo achha ho
-        int koiEkAchha = Math.max(left, right) + root.val;
-        // case 3: Na left na right achha Only root achha
-        int onlyRootAchha = root.val;
+        // case 1:
+        int pathThroughNode = left + right + root.val;
+        // case 2:
+        int maxSingleSidePath = Math.max(left, right) + root.val;
+        // case 3: 
+        int onlyNodeValue = root.val;
+        
+        maxSum = Math.max(maxSum, Math.max(pathThroughNode, Math.max(maxSingleSidePath, onlyNodeValue)));
 
-        maxSum = Math.max(maxSum, Math.max(nicheHiMilGyaAns, Math.max(koiEkAchha, onlyRootAchha)));
-
-        // Imp part
-        return Math.max(koiEkAchha, onlyRootAchha);
+        return Math.max(maxSingleSidePath, onlyNodeValue);
+        
     }
 }
