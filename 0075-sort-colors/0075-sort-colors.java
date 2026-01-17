@@ -1,64 +1,64 @@
 class Solution {
     public void sortColors(int[] nums) {
-        // Using Library function
-       // Arrays.sort(nums); // T.C. O(nlogn) <-- Quick Sort
+        // T.C O(nlogn) By sorting
+        // Arrays.sort(nums);
 
-        // Using Counting Sort T.C. O(n) but 2 pass solution
-        /*int count0 = 0;
-        int count1 = 0;
-        int count2 = 0;
-        
-        for(int i=0;i<nums.length;i++){
-            if(nums[i] == 0){
-                count0++;
-            }else if(nums[i] == 1){
-                count1++;
-            }else{
-                count2++;
-            }
-        }
-        
-        int i = 0;
-        while(count0 > 0){
-            nums[i] = 0;
-            count0--;
-            i++;
-        }
-        while(count1 > 0){
-            nums[i] = 1;
-            count1--;
-            i++;
-        }
-        while(count2 > 0){
-            count2--;
-            nums[i] = 2;
-            i++;
-        } */
+        // T.C. O(n)
+        // int n = nums.length;
+        // int count0 = 0;
+        // int count1 = 0;
+        // int count2 = 0;
+        // for(int i=0;i<n;i++){
+        //     if(nums[i] == 0){
+        //         count0++;
+        //     }else if(nums[i] == 1){
+        //         count1++;
+        //     }else{
+        //         count2++;
+        //     }
+        // }
 
-        // Dutch National Flag Algorithm (DNF) { One Pass Solution }
-        // T.C. O(n) & S.C. O(1)
+        // int idx = 0;
+        // while(count0 > 0){
+        //     nums[idx] = 0;
+        //     idx++;
+        //     count0--;
+        // }
+
+        // while(count1 > 0){
+        //     nums[idx] = 1;
+        //     idx++;
+        //     count1--;
+        // }
+
+        // while(count2 > 0){
+        //     nums[idx] = 2;
+        //     idx++;
+        //     count2--;
+        // }
+
+        // T.C. O(n)  Optimal Solution (One-pass Solution)
+        // Dutch National Flag Algorithm
         int n = nums.length;
-        int low = 0; //trcking 0's value
-        int mid = 0; //trcking 1's value
-        int high = n-1; //trcking 2's value
-
-        // Focus on mid values only
-        while(mid <= high){
-            if(nums[mid] == 0){
-                swap(nums, low, mid);
-                low++;
-                mid++;
-            }else if(nums[mid] == 1){
-                mid++;
-            }else{ // nums[mid] == 2
-                swap(nums, mid, high);
-                high--;
+        int i = 0;
+        int j = 0;
+        int k = n - 1;
+        while(j <= k){
+            if(nums[j] == 1){
+                j++;
+            }else if(nums[j] == 2){
+                swap(nums, j, k);
+                k--;
+            }else{ // nums[j] == 0
+                swap(nums, j, i);
+                i++;
+                j++;
             }
         }
     }
-    public static void swap(int[] nums, int i, int j){
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
-    }
+    public void swap(int[] arr, int x, int y){
+        int temp = arr[x];
+        arr[x] = arr[y];
+        arr[y] = temp;
+    }    
 }
