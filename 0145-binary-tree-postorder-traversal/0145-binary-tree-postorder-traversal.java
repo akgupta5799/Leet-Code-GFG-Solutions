@@ -20,7 +20,6 @@ class Solution {
         postorderTraversal(root.left);
         postorderTraversal(root.right);
         list.add(root.val);
-
         return list;
     }
 }
