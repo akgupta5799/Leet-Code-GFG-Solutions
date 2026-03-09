@@ -1,32 +1,33 @@
 class Solution {
-    int peri;
+    int perimeter = 0;
     public int islandPerimeter(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        boolean[][] visited = new boolean[m][n];
-        
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j] == 1 && visited[i][j] == false){
-                    merge(grid, i, j, visited);
-                    return peri;
+                if(grid[i][j] == 1){
+                    dfs(grid,i,j);
+                    return perimeter;
                 }
             }
         }
         return -1;
     }
-
-    public void merge(int[][] grid, int i, int j, boolean[][] visited){
-        if(i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] == 0 ){
-            peri++;
+    public void dfs(int[][] grid, int i, int j){
+        int m = grid.length;
+        int n = grid[0].length;
+        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == 0){
+            perimeter++;
             return;
         }
-        if(visited[i][j] == true) return;
-        visited[i][j] = true;
-
-        merge(grid, i+1, j, visited);
-        merge(grid, i, j+1, visited);
-        merge(grid, i-1, j, visited);
-        merge(grid, i, j-1, visited);
+        if(grid[i][j] == -1){
+            return;
+        }
+        grid[i][j] = -1; // mark visited
+        // explore left, right, up and down
+        dfs(grid, i+1, j);
+        dfs(grid, i-1, j);
+        dfs(grid, i, j+1);
+        dfs(grid, i, j-1);
     }
 }
