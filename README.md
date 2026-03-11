@@ -882,4 +882,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
