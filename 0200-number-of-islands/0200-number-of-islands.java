@@ -13,15 +13,14 @@ class Solution {
         }
         return island;
     }
-    public void dfs(char[][] grid, int i, int j){
+    public static void dfs(char[][] grid, int i, int j){
         int m = grid.length;
         int n = grid[0].length;
         if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] != '1'){
             return;
         }
-
-        grid[i][j] = '$'; // mark visited
-        // explore left, right, up and down
+        
+        grid[i][j] = '#'; // mark visited
         dfs(grid, i+1, j);
         dfs(grid, i-1, j);
         dfs(grid, i, j+1);
