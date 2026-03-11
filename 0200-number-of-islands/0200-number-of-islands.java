@@ -1,29 +1,30 @@
 class Solution {
+    int island = 0;
     public int numIslands(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        int count = 0;
-        boolean visited[][] = new boolean[m][n];
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j] == '1' && visited[i][j] == false){
-                    merge(grid, i, j, visited);
-                    count++;
+                if(grid[i][j] == '1'){
+                    dfs(grid,i,j);
+                    island++;
                 }
             }
         }
-        return count;
+        return island;
     }
-
-    public void merge(char[][] grid, int i, int j, boolean[][] visited){
-        if(i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] == '0' || visited[i][j] == true){
+    public void dfs(char[][] grid, int i, int j){
+        int m = grid.length;
+        int n = grid[0].length;
+        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] != '1'){
             return;
         }
-        visited[i][j] = true;
 
-        merge(grid, i+1, j, visited);
-        merge(grid, i, j+1, visited);
-        merge(grid, i-1, j, visited);
-        merge(grid, i, j-1, visited);
+        grid[i][j] = '$'; // mark visited
+        // explore left, right, up and down
+        dfs(grid, i+1, j);
+        dfs(grid, i-1, j);
+        dfs(grid, i, j+1);
+        dfs(grid, i, j-1);
     }
 }
