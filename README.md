@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/akgupta5799/Leet-Code-GFG-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
